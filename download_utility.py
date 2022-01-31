@@ -1,4 +1,4 @@
-from base_scraper import IRS_Scraper, FormNotFoundError
+from base_scraper import IRS_Scraper
 import requests
 import os
 

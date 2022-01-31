@@ -1,5 +1,3 @@
-import requests
-from bs4 import BeautifulSoup
 from base_scraper import IRS_Scraper
 
 class Search_Utility(IRS_Scraper):

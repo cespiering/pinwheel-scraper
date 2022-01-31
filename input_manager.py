@@ -1,5 +1,3 @@
-
-
 class InputManager:
 
     def __init__(self) -> None:
